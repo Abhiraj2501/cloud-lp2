@@ -1,1 +1,1 @@
-# cloud-lp2
+# cloud-lp2 practical
